@@ -201,6 +201,7 @@ public class Demo {
 		success();
 		return true;
 	}
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Demo demo = new Demo();
